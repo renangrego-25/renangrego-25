@@ -42,9 +42,17 @@ Busco uma oportunidade na área de TI ou desenvolvimento onde eu possa aplicar m
 
 ## Projetos em destaque
 
-- **[Travs](https://projeto-aplicativo-viagem.vercel.app)**: aplicativo web de controle de viagens, com dashboard, upload de documentos e integração com API de IA. ([código](https://github.com/renangrego-25/Projeto-Aplicativo-Viagem))
-- **[Site institucional para contadora](https://github.com/renangrego-25/Projeto-_-site-_Contadora)**: site responsivo feito com HTML, CSS e JavaScript.
-- **[Jardim de Canaã](https://jardimdecanaa.com.br)**: e-commerce em WordPress, com melhorias em HTML e CSS.
+<a href="https://projeto-aplicativo-viagem.vercel.app">
+  <img src="card-travs.svg" width="380" alt="Travs - App de controle de viagens" />
+</a>
+
+<a href="https://github.com/renangrego-25/Projeto-_-site-_Contadora">
+  <img src="card-contadora.svg" width="380" alt="Site para contadora" />
+</a>
+
+<a href="https://jardimdecanaa.com.br">
+  <img src="card-jardim.svg" width="380" alt="Jardim de Canaã" />
+</a>
 
 ## Atividade no GitHub
 
