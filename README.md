@@ -1,8 +1,19 @@
-# Olá, eu sou o Renan Gregorio 👋
+<img width="1920" height="1080" alt="Design sem nome (9)" src="https://github.com/user-attachments/assets/619b2d37-2d95-4a1d-9335-6643a98bc29b" />
 
-**Desenvolvedor Front-end Júnior** | Estudante de Ciência da Computação (UNIP)
 
-Crio sites, lojas virtuais e aplicações web responsivas. Tenho interesse em aplicar IA no desenvolvimento web e estou em busca da minha primeira oportunidade como dev júnior ou estágio.
+# Olá, eu sou Renan Gregorio
+
+<img align="right" width="270" height="270" alt="image-Photoroom (38)" src="https://github.com/user-attachments/assets/3dc42043-78f1-4e7e-9f28-10d7a2b0bd00" />
+
+Sou estudante de Ciência da Computação na UNIP, com previsão de formação para dezembro de 2027. Minha trajetória combina conhecimentos práticos em desenvolvimento web e tecnologias modernas, com habilidades sólidas em linguagens e ferramentas como HTML5, CSS3, JavaScript, Git e Github e conceitos de Inteligência Artificial.
+
+Objetivo:
+
+Busco uma oportunidade na área de TI ou desenvolvimento onde eu possa aplicar meus conhecimentos, agregar valor à equipe e continuar crescendo profissionalmente. Fico à disposição para uma entrevista, momento em que poderei detalhar melhor minhas competências
+
+<br clear="right"/>
+
+
 
 ## 🛠️ Tecnologias
 
